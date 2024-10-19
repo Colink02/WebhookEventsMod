@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.colink02dev.webhookEvents",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "mixins.PlayerAdvancementTrackerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
